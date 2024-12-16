@@ -34,7 +34,7 @@ class CarrinhoDeCompras:
             print(f"Valor total a pagar: R$ {total:.2f}")
 
 
-        pass
+        
 carrinho= CarrinhoDeCompras()
 carrinho.adicionar_produtos('Arroz', 5.50, 2)
 carrinho.adicionar_produtos('Feijão', 7.80, 1)
